@@ -50,4 +50,3 @@ This analysis demonstrates how algorithmic constraints can significantly reduce 
 
 **Course:** CSCI 6212 - Design and Analysis of Algorithms  
 **Assignment:** Project 1 - Asymptotic Analysis  
-**Institution:** George Washington University
